@@ -1,5 +1,7 @@
 # Costco Sales Analysis - Power BI Dashboard
 
+![image](https://github.com/user-attachments/assets/c130d8f0-80a6-4be9-9275-da6b91683bbd)
+
 ## 📂 Project Files
 - `costco_sales.pbix` → Power BI dashboard file
 https://app.powerbi.com/view?r=eyJrIjoiZWQ2NDZkMjAtNGM2Yi00ZTE5LThjNzMtODljYjc5NjQzYzM2IiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9
